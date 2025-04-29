@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunyihoo
 - 👀 I’m interested in golang/blockchain~
-- 🌱 I’m currently learning blockchain~
-- 💞️ I’m looking to collaborate on Go Backend Development or BlockChain~
+- 🌱 I’m currently learning blockchain/resty/frp~
+- 💞️ I’m looking to collaborate on Go Backend Development~
 - 📫 How to reach me：sunyihoo@gmail.com
 
 <!---
